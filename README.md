@@ -127,7 +127,6 @@ Cloudflare
 │  🐳 Docker & Containers                      │
 │  🐧 Linux / Administração de Servidores      │
 │  🌐 Redes de Computadores                    │
-│  📊 Observabilidade / Monitoramento          │
 │  ☁️ Cloud & Infraestrutura                   │
 │  🤖 Automação                                │
 │                                              │
